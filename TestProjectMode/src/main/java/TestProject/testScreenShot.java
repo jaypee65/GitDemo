@@ -24,6 +24,9 @@ public class testScreenShot {
 		FileUtils.copyFileToDirectory(src, new File("C:\\Users\\thinkpad\\Desktop\\ScreenShot\\picture.png"));
 			
 
+		System.out.println("Commit 1 ");
+		System.out.println("Commit 2 ");
+		System.out.println("Commit 3 ");
 	}
 
 }
