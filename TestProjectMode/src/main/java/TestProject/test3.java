@@ -14,6 +14,10 @@ public class test3 {
 		System.out.println("I am a git demo testbranch");
 		
 		System.out.println("I am a git demo testbranch");
+		System.out.println("I am a git demo testbranch");
+		System.out.println("I am a git demo testbranch");
+		System.out.println("I am a git demo testbranch");
+		
 	}
 
 }
